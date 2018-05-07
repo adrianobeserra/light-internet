@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Light Internet</string>
+    <string name="tentando_conexao">Tentando conectar ao servidor MQTT</string>
+    <string name="conexao_sucesso">Conectado com sucesso ao broker</string>
+    <string name="conexao_erro">Erro ao conectar ao broker</string>
+    <string name="topic">Topic: lightwifi/1</string>
+    <string name="broker">Broker: tcp://broker.mqttdashboard.com:1883</string>
+</resources>
